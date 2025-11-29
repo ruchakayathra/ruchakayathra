@@ -23,8 +23,7 @@
 ---
 
 ### 🛠 Tech Stack
----
-bash
+---bash
 💻 Languages:     Java | C++ | HTML | CSS | JavaScript
 ⚙ Frameworks:     Spring Boot | Bootstrap | WinForms
 🔌 Hardware:       Arduino | Sensors | Modules | Embedded Systems

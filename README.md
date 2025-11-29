@@ -39,7 +39,8 @@
 
 ### 🚀 Featured Projects
 
----diff
+
+---
 📘 Online Grocery Order Management System – Full-stack Java Spring Boot + File handling.
 🌿 Web Based Blood Donation System – Full-stack Java Spring Boot + Database.
 📘 Student Attendance Management System – Visual Studio project for managing records.

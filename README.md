@@ -38,6 +38,7 @@ Tools:         Git | GitHub | VS Code | IntelliJ | Visual Studio | Arduino IDE
 
 ### 🚀 Featured Projects
 diff
+
 📘 Online Grocery Order Management System – Full-stack Java Spring Boot + File handling.
 
 🌿 Web Based Blood Donation System – Full-stack Java Spring Boot + Database.
@@ -47,7 +48,9 @@ diff
 📚 Online Bookstore Management System – Full-stack Java Spring Boot + File handling.
  
 🌿 Automated Greenhouse System – Arduino sensors for environmental automation.
+
 💧 Automated Water Tank System – Water level monitoring + auto refilling.
+
 🏠 Home Automation System – Smart lighting & gate/door control using Arduino.
 
 > Worked on *10+ Group & Individual Software Development Projects*

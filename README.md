@@ -1,4 +1,4 @@
-<p align="center">
+<img width="1316" height="239" alt="image" src="https://github.com/user-attachments/assets/30ae72f1-b157-4823-9290-66c6ce0f6aa2" /><p align="center">
   <img src="https://raw.githubusercontent.com/ruchakayathra/ruchakayathra/main/Assets/GH_Banner.png" alt="Banner" width="100%" />
 </p>
 
@@ -23,7 +23,7 @@
 ---
 ```
 ### 🛠 Tech Stack
-
+```
 bash
 💻 Languages:     Java | C++ | HTML | CSS | JavaScript
 ⚙ Frameworks:     Spring Boot | Bootstrap | WinForms

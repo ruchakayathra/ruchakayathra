@@ -21,21 +21,21 @@
 - 🌐 Passionate about solving real-world problems through technology
 
 ---
-```
+
 ### 🛠 Tech Stack
-```
 bash
-💻 Languages:     Java | C++ | HTML | CSS | JavaScript
-⚙ Frameworks:     Spring Boot | Bootstrap | WinForms
-🔌 Hardware:       Arduino | Sensors | Modules | Embedded Systems
-🧰 Tools:          Git | GitHub | VS Code | IntelliJ | Visual Studio | Arduino IDE
-```
+Languages:     Java | C++ | HTML | CSS | JavaScript
+Frameworks:    Spring Boot
+Hardware:      Arduino | Sensors | Modules | Embedded Systems
+Tools:         Git | GitHub | VS Code | IntelliJ | Visual Studio | Arduino IDE
+
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,html,css,js,arduino,cpp,git,idea,vscode,visualstudio" />
 </p>
 
 ---
+
 
 ### 🚀 Featured Projects
 ```diff

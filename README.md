@@ -1,4 +1,4 @@
-<img width="1316" height="239" alt="image" src="https://github.com/user-attachments/assets/30ae72f1-b157-4823-9290-66c6ce0f6aa2" /><p align="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/ruchakayathra/ruchakayathra/main/Assets/GH_Banner.png" alt="Banner" width="100%" />
 </p>
 
@@ -23,11 +23,13 @@
 ---
 
 ### 🛠 Tech Stack
+---
 bash
-Languages:     Java | C++ | HTML | CSS | JavaScript
-Frameworks:    Spring Boot
-Hardware:      Arduino | Sensors | Modules | Embedded Systems
-Tools:         Git | GitHub | VS Code | IntelliJ | Visual Studio | Arduino IDE
+💻 Languages:     Java | C++ | HTML | CSS | JavaScript
+⚙ Frameworks:     Spring Boot | Bootstrap | WinForms
+🔌 Hardware:       Arduino | Sensors | Modules | Embedded Systems
+🧰 Tools:          Git | GitHub | VS Code | IntelliJ | Visual Studio | Arduino IDE
+---
 
 
 <p align="center">
@@ -36,10 +38,8 @@ Tools:         Git | GitHub | VS Code | IntelliJ | Visual Studio | Arduino IDE
 
 ---
 
-
 ### 🚀 Featured Projects
-```diff
-
+diff
 📘 Online Grocery Order Management System – Full-stack Java Spring Boot + File handling.
 🌿 Web Based Blood Donation System – Full-stack Java Spring Boot + Database.
 📘 Student Attendance Management System – Visual Studio project for managing records.
@@ -47,7 +47,7 @@ Tools:         Git | GitHub | VS Code | IntelliJ | Visual Studio | Arduino IDE
 🌿 Automated Greenhouse System – Arduino sensors for environmental automation.
 💧 Automated Water Tank System – Water level monitoring + auto refilling.
 🏠 Home Automation System – Smart lighting & gate/door control using Arduino.
-```
+
 > Worked on *10+ Group & Individual Software Development Projects*
 
 > Developed *10+ Web Development Projects*

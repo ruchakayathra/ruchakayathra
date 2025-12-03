@@ -53,7 +53,6 @@
 * ✅ Worked on **10+ Group & Individual Software Development Projects**
 * ✅ Developed **10+ Web Development Projects**
 * ✅ **10+ Arduino & IoT Projects**, including robotics and custom Thoran designs
-* ✅ Hands-on experience repairing *computers, laptops, smartphones, and electronics*
 
 ---
 

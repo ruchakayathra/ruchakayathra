@@ -71,12 +71,12 @@ I specialize in transforming raw vocals and source material into polished, emoti
 ### 🌐 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sithika-wathsula-757a69371"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-  <a href="mailto:sithii.walisundara@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
-  <a href="https://github.com/sithii"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
-  <a href="https://www.facebook.com/share/16kYMtNona/"><img src="https://img.icons8.com/color/48/000000/facebook-new.png" height="40" alt="Facebook"/></a>
-  <a href="https://wa.me/+94723180882"><img src="https://img.icons8.com/color/48/000000/whatsapp.png" height="40" alt="WhatsApp"/></a>
-  <a href="https://www.instagram.com/sithii_04/profilecard/?igsh=MW90dGhyNzd1dXI0"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" height="40" alt="Instagram"/></a>
+  <a href="https://github.com/ruchakayathra/ruchakayathra"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="mailto:Ruchakasiriwardana8@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+  <a href="https://github.com/ruchakayathra"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
+  <a href="https://www.facebook.com/share/1EmtGPyCb8/"><img src="https://img.icons8.com/color/48/000000/facebook-new.png" height="40" alt="Facebook"/></a>
+  <a href="https://wa.me/+94779430617"><img src="https://img.icons8.com/color/48/000000/whatsapp.png" height="40" alt="WhatsApp"/></a>
+  <a href="https://www.instagram.com/ruchaka_siriwardana?igsh=OW9zOWl6eWltYXk0"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" height="40" alt="Instagram"/></a>
 </p>
 
 ---

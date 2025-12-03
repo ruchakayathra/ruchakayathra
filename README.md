@@ -25,7 +25,7 @@
 ### 🛠 Tech Stack
 
 | Category | Details |
-| :--- | :--- |
+| :--- | :---- |
 | **💻 Languages:** | Java \| C++ \| HTML \| CSS \| JavaScript |
 | **⚙ Frameworks:** | Spring Boot \| Bootstrap \| WinForms |
 | **🔌 Hardware:** | Arduino \| Sensors \| Modules \| Embedded Systems |
@@ -41,6 +41,7 @@
 
 * **🛒 Online Grocery Order Management System** – Full-stack Java Spring Boot + File handling.
 * **🩸 Web Based Blood Donation System** – Full-stack Java Spring Boot + Database.
+* **🚆 Train scheduling management system** – Full-stack Java Spring Boot + Database.
 * **📘 Student Attendance Management System** – Visual Studio project for managing records.
 * **📚 Online Bookstore Management System** – Full-stack Java Spring Boot + File handling.
 * **🌿 Automated Greenhouse System** – Arduino sensors for environmental automation.
@@ -51,7 +52,7 @@
 
 * ✅ Worked on **10+ Group & Individual Software Development Projects**
 * ✅ Developed **10+ Web Development Projects**
-* ✅ **20+ Arduino & IoT Projects**, including robotics and custom Thoran designs
+* ✅ **10+ Arduino & IoT Projects**, including robotics and custom Thoran designs
 * ✅ Hands-on experience repairing *computers, laptops, smartphones, and electronics*
 
 ---

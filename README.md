@@ -84,8 +84,8 @@ I specialize in transforming raw vocals and source material into polished, emoti
 ### 🧠 Motto
 > *"Hear the Imperfect. Equalize the Vision. Balance the Experience."*
 >
-><p align="center">
+<p align="center">
   <br>
   <br>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=%E2%80%9CWhen+program+developers+are+not+territorial+about+their+code+and+encourage+others+to+look+for+bugs+and+potential+improvements%2C+progress+speeds+up+dramatically.%E2%80%9D&author=Gerald+Weinberg&font=Fira%20Code&size=20&align=center&color=87CEEB" alt="Gerald Weinberg Quote" width="650"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=%E2%80%9CWhen+program+developers+are+not+territorial+about+their+code+and+encourage+others+to+look+for+bugs+and+potential+improvements%2C+progress+speeds+up+dramatically.%E2%80%9D&author=Gerald+Weinberg&font=Fira%20Code&size=20&align=center&color=87CEEB&quotes=false" alt="Gerald Weinberg Quote" width="650"/>
 </p>

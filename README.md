@@ -13,7 +13,7 @@
 
 ### 🌟 About Me
 
-- 🛠 **Full-Stack Developer** and **Electronics Enthusiast**
+- 🛠 **Full-Stack Developer** and **Audio Engineering**
 - ⚡ Creator of projects blending *software + hardware + creativity*
 - 🎧 **Audio Engineer** specializing in *mixing, mastering, and re-production*
 - 📫 Reach me at: *Ruchakasiriwardana8@gmail.com*
@@ -25,7 +25,7 @@
 ### 🛠 Tech Stack
 
 | Category | Details |
-| :--- | :---- |
+| :--- | :--- |
 | **💻 Languages:** | Java \| C++ \| HTML \| CSS \| JavaScript |
 | **⚙ Frameworks:** | Spring Boot \| Bootstrap \| WinForms |
 | **🔌 Hardware:** | Arduino \| Sensors \| Modules \| Embedded Systems |

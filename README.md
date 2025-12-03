@@ -41,7 +41,7 @@
 
 * **🛒 Online Grocery Order Management System** – Full-stack Java Spring Boot + File handling.
 * **🩸 Web Based Blood Donation System** – Full-stack Java Spring Boot + Database.
-* **🚆 Train scheduling management system** – Full-stack Java Spring Boot + Database.
+* **🚆 Train Scheduling Management System** – Full-stack Java Spring Boot + Database.
 * **📘 Student Attendance Management System** – Visual Studio project for managing records.
 * **📚 Online Bookstore Management System** – Full-stack Java Spring Boot + File handling.
 * **🌿 Automated Greenhouse System** – Arduino sensors for environmental automation.

@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Ruchaka Siriwardana</h1>
-<h3 align="center">💻 Full-Stack Developer | 🤖 Maker | 🎧 Audio Engineer | 🇱🇰 Sri Lanka</h3>
+<h3 align="center">💻 Front-End Developer | 🤖 Maker | 🎧 Audio Engineer | 🇱🇰 Sri Lanka</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&pause=1000&width=475&lines=Designing+systems+%26+sound...;+Building+code+%2B+hardware+magic...;+Bringing+ideas+to+life!" />
